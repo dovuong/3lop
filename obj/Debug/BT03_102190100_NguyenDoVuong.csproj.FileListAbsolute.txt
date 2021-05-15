@@ -1,0 +1,10 @@
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\BT03_102190100_NguyenDoVuong\bin\Debug\Test3Lop.exe.config
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\BT03_102190100_NguyenDoVuong\bin\Debug\Test3Lop.exe
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\BT03_102190100_NguyenDoVuong\bin\Debug\Test3Lop.pdb
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\BT03_102190100_NguyenDoVuong\obj\Debug\BT03_102190100_NguyenDoVuong.csprojAssemblyReference.cache
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\BT03_102190100_NguyenDoVuong\obj\Debug\Test3Lop.Properties.Resources.resources
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\BT03_102190100_NguyenDoVuong\obj\Debug\BT03_102190100_NguyenDoVuong.View.Form6.resources
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\BT03_102190100_NguyenDoVuong\obj\Debug\BT03_102190100_NguyenDoVuong.csproj.GenerateResource.cache
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\BT03_102190100_NguyenDoVuong\obj\Debug\BT03_102190100_NguyenDoVuong.csproj.CoreCompileInputs.cache
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\BT03_102190100_NguyenDoVuong\obj\Debug\Test3Lop.exe
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\BT03_102190100_NguyenDoVuong\obj\Debug\Test3Lop.pdb

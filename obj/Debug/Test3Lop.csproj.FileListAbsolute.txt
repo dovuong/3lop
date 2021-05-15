@@ -1,0 +1,11 @@
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\Test3Lop\obj\Debug\Test3Lop.csprojAssemblyReference.cache
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\Test3Lop\obj\Debug\Test3Lop.Properties.Resources.resources
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\Test3Lop\obj\Debug\Test3Lop.csproj.GenerateResource.cache
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\Test3Lop\obj\Debug\Test3Lop.csproj.CoreCompileInputs.cache
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\Test3Lop\bin\Debug\Test3Lop.exe.config
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\Test3Lop\bin\Debug\Test3Lop.exe
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\Test3Lop\bin\Debug\Test3Lop.pdb
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\Test3Lop\obj\Debug\Test3Lop.exe
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\Test3Lop\obj\Debug\Test3Lop.pdb
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\Test3Lop\obj\Debug\Test3Lop.View.Form1.resources
+D:\1TAI LIEU BAI TAP\DHBKDN\hk4 2021\dotnet\VSdotnet\Test3Lop\obj\Debug\Test3Lop.View.Form6.resources
